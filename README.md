@@ -17,7 +17,7 @@ O objetivo é preparar um relatório para investidores com análise sobre viabil
 
 # Descrição de dados
 
-1 -Tabela rest_data:
+ 1 -Tabela rest_data:
   - object_name — nome de estabelecimento
   - chain — estabelecimento de rede (TRUE/FALSE)
   - object_type — tipo de estabelecimento
